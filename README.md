@@ -1,5 +1,5 @@
 ## Overview
-Next.js 15, Typescript, Shadcn - Demo Dashboard
+Next.js 15, TypeScript, Shadcn - Demo Dashboard
 
 ## Getting Started
 
