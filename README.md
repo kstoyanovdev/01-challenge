@@ -3,7 +3,14 @@ Next.js 15, TypeScript, Shadcn - Demo Dashboard
 
 ## Getting Started
 
-Development server:
+# Installation
+
+To begin, install the required dependencies using the following command:
+
+```bash
+pnpm i
+
+## Development server:
 
 ```bash
 npm run dev
