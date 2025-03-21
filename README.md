@@ -11,7 +11,7 @@ To begin, install the required dependencies using the following command:
 pnpm i
 ```
 
-## Development server:
+## Development Server:
 
 ```bash
 npm run dev
